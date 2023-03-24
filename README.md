@@ -1,4 +1,4 @@
-# Node gRPC
+# NodeJS gRPC
 
 Projeto de demonstração node + gRPC
 
@@ -6,7 +6,7 @@ Projeto de demonstração node + gRPC
 Abra um terminal e execute o comando `npm install` 
 
 ## Rodar o projeto server
-Execute o comando `node index.js`
+Execute o comando `node server.js`
 
 ## Rodar o projeto client
-Execute o comando `node client/get_notes.js`# nodejs-gprc-client-server
+Execute o comando `node client.js`# nodejs-gprc-client-server
